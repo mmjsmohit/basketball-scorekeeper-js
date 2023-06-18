@@ -1,4 +1,7 @@
-# co7f14f33af3c04626ea35bda
+# Basketball Scorekeeper - Built in Pure JS
+
+This project was built as a part of a solo assignment during my Frontend Web Developer Course at Scrimba!
+Deployment can be found at [this](https://basketball-scorekeeper-js.vercel.app/) link!
 
 Quick start:
 
