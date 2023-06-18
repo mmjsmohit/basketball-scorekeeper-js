@@ -1,0 +1,47 @@
+@font-face {
+  font-family: customFont;
+  src: url(font.ttf);
+}
+
+body {
+    font-family: customFont;
+    color: white;
+    background-color: #2D3047;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+.scoreboard {
+    font-size: 32px;
+    font-family: customFont;
+    align-items: center;
+    margin: 0 auto;
+    width: 100px;
+    padding: 4px;
+    color: red;
+    text-align: center;
+    background-color: black;
+    border-radius: 5px;
+}
+
+
+.btn-holder {
+    font-family: 'customFont';
+    background-color: #2D3047;
+    margin-top: 8px;
+}
+#reset {
+    display: block;
+    width: 100px;
+    margin: 5px auto;
+}
+button {
+    background-color: #2D3047;
+    border: 1px white solid;
+    font-family: customFont;
+    color: white;
+    border-radius: 5px;
+}
